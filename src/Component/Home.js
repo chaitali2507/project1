@@ -30,7 +30,7 @@ const Home=()=>{
         <div className='content'>
             <h3>Agricul Farm</h3>
             <div className='title'>
-                Fresh Oraganic Fruits For Your Health.
+                Fresh Oraganical Fruits For Your Health.
             </div>
             <div className='disc'>
                 Dynamically supply web-enabled portals for high standards income Completely productivate optimal sources strategic.
